@@ -9,7 +9,7 @@
 - [ ] Uploading the complete training dataset and training script
 - [ ] Uploading the benchmarking script
 
-## Useage
+## Usage
 
 ### Setup enviroment
 
